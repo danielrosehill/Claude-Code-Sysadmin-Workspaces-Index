@@ -1,4 +1,4 @@
-[![Part of the Daniel Rosehill Index Collection](https://img.shields.io/badge/Index%20Collection-Main%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Index)
+[![Part of the Daniel Rosehill Index Collection](https://img.shields.io/badge/Index%20Collection-Main%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Start-Here)
 
 # Claude Code Sysadmin Workspaces Index
 
